@@ -1,7 +1,7 @@
 ImageNinja
 ======
 [![](https://jitpack.io/v/diana-uk/ImageNinja.svg)](https://jitpack.io/#diana-uk/ImageNinja)
-<p align="center"><img src="https://raw.githubusercontent.com/your-github-username/ImageNinja/master/ss.png" width="50%" /></p>
+<p align="center"><img src="https://github.com/diana-uk/ImageNinja/assets/68230600/f361cef8-9682-4044-848a-8c56af16639b" width="40%" /></p>
 
 ImageNinja is a powerful and versatile Android image manipulation library. It offers a wide range of functionalities to enhance and transform images effortlessly. Whether you need to compress, crop, resize, or apply filters to images, ImageNinja has got you covered.
 
