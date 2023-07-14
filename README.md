@@ -132,7 +132,7 @@ val rotatedImage = ImageNinjaRotator.rotate(context, originalImageFile, rotation
 
 Explore the full range of ImageNinja's functionalities and transform your images with ease. From compression to cropping, resizing, and applying filters, ImageNinja empowers you to unleash your creativity and create stunning visuals effortlessly.
 
-Check out the [sample app](link_to_sample_app) to see ImageNinja in action!
+Check out the [sample app](https://github.com/diana-uk/ImageNinja/tree/master/app) to see ImageNinja in action!
 
 ---
 
